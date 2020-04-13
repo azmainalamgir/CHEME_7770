@@ -6,11 +6,13 @@ The stoichiometric array was constructed using a total of 18 metabolites and 15 
 
 ## Part b
 Running the following script:
-  Balance.jl
+  
+    Balance.jl
 calculates the output of the matrix multiplication of transpose of the atom matrix multiplied by the stoichiometric matrix. The first 6 columns of the output matrix are 0, indicating that the system reconstruction was elementally balanced.
 
 ## Part c
 Running the following scripts:
-  FBA.jl
-  Flux.jl
+  
+    FBA.jl
+    Flux.jl
 determines the maximum rate of urea production. Setting appropriate bounds for metabolite and flux values and optimizing for urea production, the maximized value for *b4* is calculated to be **1.27 mmol/gDW-hr**.
