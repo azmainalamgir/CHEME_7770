@@ -3,14 +3,14 @@ Open attached PDF for problem solutions and discussion. Open all .m files to vie
 
 Instructions to run specific scripts are as follows:
 
-## Problem 2d:
+## Problem 2d
 Open the following two scripts:
 
     CHEME7770_Final_Problem2d.m
     acdc.m
 First, go to acdc.m select an S value to uncomment. Then, go back and run the Problem 2d script. Repeat for all three values of S on acdc.m.
 
-## Problem 2e:
+## Problem 2e
 Open the following two scripts:
 
     CHEME7770_Final_Problem2e.m
