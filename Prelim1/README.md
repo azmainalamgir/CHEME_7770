@@ -1,7 +1,7 @@
 # ChemE 7770 Prelim 1
 Open attached PDF for problem solutions and discussion. Open all .m files to view MATLAB scripts.
 
-Instructions to run specific scripts are as followsL
+Instructions to run specific scripts are as follows:
 
 ## Problem 2d:
 Open the following two scripts:
