@@ -1,4 +1,4 @@
-#Final Project
+# Final Project
 
 Displacement.m recreates Figure 2 of the final report. 
 Velocity_and_Force.m recreates Figure 3.
